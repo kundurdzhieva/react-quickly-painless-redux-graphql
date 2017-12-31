@@ -2,14 +2,17 @@ import React from 'react';
 
 class Button extends React.Component {
 
-    render () {
+    handleTimer() {
+        this.props.startTimer(this.props.time, this.props.time)
+    }
+
+    render() {
 
         return (
-            <button type="button"
-              className="btn btn-default"
-            onClick={this.props.startTimer.bind(null, this.props.time)}>
-                {this.props.time} seconds
-            </button>
+            <button
+                className="btn btn-default"
+                onClick={this.handleTimer.bind(this)}
+            >{this.props.time} seconds</button>
         )
     }
 }

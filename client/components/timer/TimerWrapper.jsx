@@ -1,46 +1,89 @@
 import React from 'react';
 
-import Timer from 'Timer';
-import Button from 'Button';
+import Button from 'timer/Button';
+import Tmr from 'timer/Tmr';
+import StopStarBtn from 'timer/StopStarBtn';
+import CancelResetBtn from 'timer/CancelResetBtn';
+import Audio from 'timer/Audio';
+import Slider from 'timer/Slider';
 
 class TimerWrapper extends React.Component {
 
     constructor(props) {
         super(props);
 
-        this.state = {timeleft: null, timer: null};
+        this.state = {
+            timeLeft: null,
+            timer: null,
+            maxTime: null,
+            hideTimer: false,
+            style: {
+                display: 'block'
+            }};
 
         this.startTimer = this.startTimer.bind(this);
+        this.startStopTimer = this.startStopTimer.bind(this);
     }
 
-    startTimer(timeLeft) {
+    startTimer(setTime, maxTime) {
+
+        // setTime *= 60;
+
         clearInterval(this.state.timer);
 
         let timer = setInterval(() => {
-
-            var timeleft = this.state.timeleft - 1;
-            if (timeleft === 0) clearInterval(timer);
+            var timeLeft = this.state.timeLeft - 1;
+            if (timeLeft === 0) clearInterval(timer);
             this.setState({timeLeft: timeLeft})
         }, 1000);
 
-        return this.setState({timeLeft: timeLeft, timer: timer})
+        return this.setState({timeLeft: setTime, timer: timer, maxTime: maxTime || null})
+    };
+
+    startStopTimer(hideTimer) {
+
+        if (hideTimer === null) {
+            this.setState({style: {display: 'block'}});
+        } else {
+            this.setState({style: {display: 'none'}});
+        }
+
+        var hasTimer = this.state.timer;
+
+        if (hasTimer) {
+            clearInterval(hasTimer);
+            this.setState({timer: null});
+        } else {
+            this.startTimer(this.state.timeLeft, this.state.maxTime)
+        }
     }
 
     render() {
-
         return (
-            <div className="row-fluid">
-
-                <h2>Timer</h2>
-                <div className="btn-group" role="group">
-                    <Button time="5" startTimer={this.startTimer}/>
-                    <Button time="10" startTimer={this.startTimer}/>
-                    <Button time="15" startTimer={this.startTimer}/>
+            <div className="row">
+                <div className="btn-group">
+                    <Button time={5} startTimer={this.startTimer}/>
+                    <Button time={10} startTimer={this.startTimer}/>
+                    <Button time={15} startTimer={this.startTimer}/>
                 </div>
 
-                <Timer time={this.state.timeLeft}/>
+                <div className="btn-group">
+                    <StopStarBtn hasTimer={this.state.timer} startStopTimer={this.startStopTimer}/>
+                    <CancelResetBtn hasTimer={this.state.timer} startStopTimer={this.startStopTimer}/>
 
-                <audio id="end-of-time" src="flute_v_long_01.wqv" preload="auto"></audio>
+                </div>
+
+                <div style={this.state.style}>
+                    <Tmr timeLeft={this.state.timeLeft}/>
+                </div>
+
+                <div>
+                    <Audio timeLeft={this.state.timeLeft}/>
+                </div>
+
+                <div>
+                    <Slider value={this.state.timeLeft || 0} min={0} max={this.state.maxTime}/>
+                </div>
             </div>
         )
     }

@@ -1,3 +1,4 @@
+import '../../assets/style.css';
 import React from 'react';
 
 import Tooltip from 'Tooltip';
