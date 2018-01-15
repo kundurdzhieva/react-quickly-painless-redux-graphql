@@ -2,8 +2,1118 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9750ceb4-fa17-44e6-9a65-d829cdd4ba6c" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/images/Avatar-Teaser-Poster.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/images/Avengers_Age_of_Ultron.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/images/Dark_knight_rises_poster.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/images/John_carter_poster.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/images/MV5BMjIwNTA1MDA2Ml5BMl5BanBnXkFtZTgwNzIzMTA5NDE@._V1_SX640_SY720_.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/images/On_Stranger_Tides_Poster.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/images/Pirates_AWE_Poster.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/images/Spider-Man_3,_International_Poster.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/images/Tangled_poster.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/images/harry-potter-and-the-half-blood-prince.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/client/toDo/actions/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/client/toDo/components/App.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/client/toDo/components/Footer.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/client/toDo/components/Link.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/client/toDo/components/Todo.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/client/toDo/components/TodoList.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/client/toDo/containers/AddTodo.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/client/toDo/containers/FilterLink.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/client/toDo/containers/VisibleTodoList.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/client/toDo/reducers/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/client/toDo/reducers/todos.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/client/toDo/reducers/visibilityFilter.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch01/hello-world/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch01/hello-world/js/react-dom.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch01/hello-world/js/react.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch02-es5/hello-js-world/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch02-es5/hello-js-world/js/react-15.0.2.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch02-es5/hello-js-world/js/react-dom-15.0.2.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch02-es5/hello-js-world/js/script.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch02-es5/hello-world-class/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch02-es5/hello-world-class/js/react-15.0.2.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch02-es5/hello-world-class/js/react-dom-15.0.2.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch02-es5/hello-world-class/js/script.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch02-es5/hello-world-nested/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch02-es5/hello-world-nested/js/react-15.0.2.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch02-es5/hello-world-nested/js/react-dom-15.0.2.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch02/hello-js-world/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch02/hello-js-world/js/react-dom.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch02/hello-js-world/js/react.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch02/hello-js-world/js/script.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch02/hello-world-class/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch02/hello-world-class/js/react-dom.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch02/hello-world-class/js/react.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch02/hello-world-class/js/script.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch02/hello-world-nested/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch02/hello-world-nested/js/react-dom.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch02/hello-world-nested/js/react.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch03-es5/hello-js-world-jsx/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch03-es5/hello-js-world-jsx/js/react-15.0.2.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch03-es5/hello-js-world-jsx/js/react-dom-15.0.2.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch03-es5/hello-js-world-jsx/js/script.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch03-es5/hello-js-world-jsx/jsx/script.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch03-es5/hello-world-class-jsx/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch03-es5/hello-world-class-jsx/js/react-15.0.2.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch03-es5/hello-world-class-jsx/js/react-dom-15.0.2.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch03-es5/hello-world-class-jsx/js/script.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch03-es5/hello-world-class-jsx/jsx/script.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch03-es5/hello-world-jsx/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch03-es5/hello-world-jsx/js/react-15.0.2.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch03-es5/hello-world-jsx/js/react-dom-15.0.2.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch03-es5/hello-world-jsx/js/script.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch03-es5/hello-world-jsx/jsx/script.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch03-es5/hello-world/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch03-es5/hello-world/js/react-15.0.2.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch03-es5/hello-world/js/react-dom-15.0.2.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch03-es5/method/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch03-es5/method/js/react-15.0.2.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch03-es5/method/js/react-dom-15.0.2.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch03-es5/method/js/script.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch03-es5/method/jsx/script.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch03-es5/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch03/hello-js-world-jsx/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch03/hello-js-world-jsx/js/react-dom.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch03/hello-js-world-jsx/js/react.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch03/hello-js-world-jsx/js/script.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch03/hello-js-world-jsx/jsx/script.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch03/hello-world-class-jsx/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch03/hello-world-class-jsx/js/react-dom.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch03/hello-world-class-jsx/js/react.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch03/hello-world-class-jsx/js/script.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch03/hello-world-class-jsx/jsx/script.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch03/hello-world-jsx/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch03/hello-world-jsx/js/react-dom.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch03/hello-world-jsx/js/react.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch03/hello-world-jsx/js/script.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch03/hello-world-jsx/jsx/script.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch03/hello-world/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch03/hello-world/js/react-dom.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch03/hello-world/js/react.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch03/method/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch03/method/js/react-dom.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch03/method/js/react.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch03/method/js/script.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch03/method/jsx/script.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch03/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch04-es5/clock-analog-digital/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch04-es5/clock-analog-digital/js/analog-display.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch04-es5/clock-analog-digital/js/clock.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch04-es5/clock-analog-digital/js/digital-display.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch04-es5/clock-analog-digital/js/digitalDisplay.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch04-es5/clock-analog-digital/js/react-15.0.2.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch04-es5/clock-analog-digital/js/react-dom-15.0.2.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch04-es5/clock-analog-digital/js/script.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch04-es5/clock-analog-digital/js/timedisplay.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch04-es5/clock-analog-digital/jsx/analog-display.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch04-es5/clock-analog-digital/jsx/clock.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch04-es5/clock-analog-digital/jsx/digital-display.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch04-es5/clock-analog-digital/jsx/script.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch04-es5/clock/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch04-es5/clock/js/clock.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch04-es5/clock/js/react-15.0.2.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch04-es5/clock/js/react-dom-15.0.2.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch04-es5/clock/js/script.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch04-es5/clock/jsx/clock.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch04-es5/clock/jsx/script.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch04-es5/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch04/clock-analog-digital/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch04/clock-analog-digital/js/analog-display.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch04/clock-analog-digital/js/clock.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch04/clock-analog-digital/js/digital-display.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch04/clock-analog-digital/js/react-dom.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch04/clock-analog-digital/js/react.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch04/clock-analog-digital/js/script.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch04/clock-analog-digital/jsx/analog-display.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch04/clock-analog-digital/jsx/clock.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch04/clock-analog-digital/jsx/digital-display.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch04/clock-analog-digital/jsx/script.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch04/clock-es6/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch04/clock-es6/js/clock.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch04/clock-es6/js/react-dom.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch04/clock-es6/js/react.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch04/clock-es6/js/script.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch04/clock-es6/jsx/clock.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch04/clock-es6/jsx/script.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch04/clock/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch04/clock/js/clock.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch04/clock/js/react-dom.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch04/clock/js/react.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch04/clock/js/script.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch04/clock/jsx/clock.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch04/clock/jsx/script.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch04/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch05-es5/did-mount/css/bootstrap.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch05-es5/did-mount/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch05-es5/did-mount/js/content.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch05-es5/did-mount/js/react-15.0.2.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch05-es5/did-mount/js/react-dom-15.0.2.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch05-es5/did-mount/js/script.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch05-es5/did-mount/jsx/content.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch05-es5/did-mount/jsx/script.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch05-es5/logger/css/bootstrap.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch05-es5/logger/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch05-es5/logger/js/content.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch05-es5/logger/js/react-15.0.2.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch05-es5/logger/js/react-dom-15.0.2.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch05-es5/logger/js/script.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch05-es5/logger/jsx/content.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch05-es5/logger/jsx/script.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch05-es5/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch05/did-mount/css/bootstrap.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch05/did-mount/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch05/did-mount/js/content.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch05/did-mount/js/react-dom.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch05/did-mount/js/react.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch05/did-mount/js/script.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch05/did-mount/jsx/content.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch05/did-mount/jsx/script.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch05/logger/css/bootstrap.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch05/logger/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch05/logger/js/content.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch05/logger/js/logger.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch05/logger/js/react-dom.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch05/logger/js/react.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch05/logger/js/script.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch05/logger/jsx/content.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch05/logger/jsx/logger.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch05/logger/jsx/script.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch05/note/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch05/note/js/note.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch05/note/js/react-dom.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch05/note/js/react.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch05/note/js/script.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch05/note/jsx/note.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch05/note/jsx/script.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch05/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch05/users/css/bootstrap.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch05/users/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch05/users/js/react-dom.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch05/users/js/react.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch05/users/js/script.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch05/users/js/users.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch05/users/jsx/script.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch05/users/jsx/users.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch05/users/real-user-data.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06-es5/add-sub/css/radio.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06-es5/add-sub/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06-es5/add-sub/js/mouse.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06-es5/add-sub/js/radio.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06-es5/add-sub/js/react-15.0.2.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06-es5/add-sub/js/react-dom-15.0.2.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06-es5/add-sub/js/script.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06-es5/add-sub/jsx/add-sub.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06-es5/add-sub/jsx/script.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06-es5/button/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06-es5/button/js/button.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06-es5/button/js/react-15.0.2.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06-es5/button/js/react-dom-15.0.2.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06-es5/button/js/script.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06-es5/button/jsx/button.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06-es5/button/jsx/script.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06-es5/mouse-event/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06-es5/mouse-event/js/mouse.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06-es5/mouse-event/js/react-15.0.2.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06-es5/mouse-event/js/react-dom-15.0.2.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06-es5/mouse-event/js/script.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06-es5/mouse-event/jsx/mouse.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06-es5/mouse-event/jsx/script.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06-es5/mouse/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06-es5/mouse/js/mouse.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06-es5/mouse/js/react-15.0.2.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06-es5/mouse/js/react-dom-15.0.2.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06-es5/mouse/js/script.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06-es5/mouse/jsx/mouse.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06-es5/mouse/jsx/script.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06-es5/onclick-parent/css/bootstrap.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06-es5/onclick-parent/css/main.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06-es5/onclick-parent/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06-es5/onclick-parent/js/content.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06-es5/onclick-parent/js/react-15.0.2.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06-es5/onclick-parent/js/react-dom-15.0.2.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06-es5/onclick-parent/js/script.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06-es5/onclick-parent/jsx/content.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06-es5/onclick-parent/jsx/script.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06-es5/onclick-parent/script.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06-es5/onclick-props/css/bootstrap.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06-es5/onclick-props/css/main.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06-es5/onclick-props/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06-es5/onclick-props/js/content.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06-es5/onclick-props/js/react-15.0.2.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06-es5/onclick-props/js/react-dom-15.0.2.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06-es5/onclick-props/js/script.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06-es5/onclick-props/jsx/content.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06-es5/onclick-props/jsx/script.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06-es5/onclick-props/script.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06-es5/onclick/css/bootstrap.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06-es5/onclick/css/main.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06-es5/onclick/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06-es5/onclick/js/content.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06-es5/onclick/js/react-15.0.2.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06-es5/onclick/js/react-dom-15.0.2.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06-es5/onclick/js/script.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06-es5/onclick/jsx/content.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06-es5/onclick/jsx/script.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06-es5/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06-es5/radio/css/radio.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06-es5/radio/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06-es5/radio/js/radio.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06-es5/radio/js/react-15.0.2.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06-es5/radio/js/react-dom-15.0.2.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06-es5/radio/js/script.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06-es5/radio/jsx/radio.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06-es5/radio/jsx/script.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06-es5/slider/css/bootstrap.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06-es5/slider/css/images/ui-bg_flat_75_ffffff_40x100.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06-es5/slider/css/images/ui-bg_glass_55_fbf9ee_1x400.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06-es5/slider/css/images/ui-bg_glass_65_ffffff_1x400.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06-es5/slider/css/images/ui-bg_glass_75_dadada_1x400.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06-es5/slider/css/images/ui-bg_glass_75_e6e6e6_1x400.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06-es5/slider/css/images/ui-bg_glass_95_fef1ec_1x400.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06-es5/slider/css/images/ui-bg_highlight-soft_75_cccccc_1x100.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06-es5/slider/css/images/ui-icons_222222_256x240.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06-es5/slider/css/images/ui-icons_2e83ff_256x240.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06-es5/slider/css/images/ui-icons_454545_256x240.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06-es5/slider/css/images/ui-icons_888888_256x240.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06-es5/slider/css/images/ui-icons_cd0a0a_256x240.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06-es5/slider/css/jquery-ui.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06-es5/slider/css/style.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06-es5/slider/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06-es5/slider/js/jquery-1.10.2.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06-es5/slider/js/jquery-ui.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06-es5/slider/js/react-15.0.2.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06-es5/slider/js/react-dom-15.0.2.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06-es5/slider/js/script.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06-es5/slider/js/slider-buttons.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06-es5/slider/js/slider-value.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06-es5/slider/js/slider.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06-es5/slider/jsx/script.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06-es5/slider/jsx/slider-buttons.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06-es5/slider/jsx/slider-value.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06/add-sub/css/radio.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06/add-sub/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06/add-sub/js/mouse.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06/add-sub/js/radio.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06/add-sub/js/react-dom.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06/add-sub/js/react.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06/add-sub/js/script.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06/add-sub/jsx/add-sub.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06/add-sub/jsx/script.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06/button/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06/button/js/button.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06/button/js/react-dom.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06/button/js/react.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06/button/js/script.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06/button/jsx/button.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06/button/jsx/script.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06/mouse-capture/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06/mouse-capture/js/mouse.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06/mouse-capture/js/react-dom.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06/mouse-capture/js/react.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06/mouse-capture/js/script.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06/mouse-capture/jsx/mouse.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06/mouse-capture/jsx/script.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06/mouse-event/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06/mouse-event/js/mouse.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06/mouse-event/js/react-dom.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06/mouse-event/js/react.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06/mouse-event/js/script.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06/mouse-event/jsx/mouse.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06/mouse-event/jsx/script.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06/mouse/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06/mouse/js/mouse.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06/mouse/js/react-dom.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06/mouse/js/react.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06/mouse/js/script.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06/mouse/jsx/mouse.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06/mouse/jsx/script.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06/onclick-parent/css/bootstrap.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06/onclick-parent/css/main.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06/onclick-parent/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06/onclick-parent/js/click-counter-button.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06/onclick-parent/js/content.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06/onclick-parent/js/counter.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06/onclick-parent/js/react-dom.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06/onclick-parent/js/react.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06/onclick-parent/js/script.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06/onclick-parent/jsx/click-counter-button.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06/onclick-parent/jsx/content.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06/onclick-parent/jsx/counter.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06/onclick-parent/jsx/script.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06/onclick-parent/script.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06/onclick-props/css/bootstrap.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06/onclick-props/css/main.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06/onclick-props/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06/onclick-props/js/click-counter-button.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06/onclick-props/js/content.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06/onclick-props/js/react-dom.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06/onclick-props/js/react.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06/onclick-props/js/script.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06/onclick-props/jsx/click-counter-button.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06/onclick-props/jsx/content.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06/onclick-props/jsx/script.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06/onclick-props/script.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06/onclick/css/bootstrap.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06/onclick/css/main.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06/onclick/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06/onclick/js/content.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06/onclick/js/react-dom.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06/onclick/js/react.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06/onclick/js/script.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06/onclick/jsx/content.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06/onclick/jsx/script.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06/radio/css/radio.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06/radio/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06/radio/js/radio.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06/radio/js/react-dom.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06/radio/js/react.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06/radio/js/script.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06/radio/jsx/radio.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06/radio/jsx/script.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06/slider/css/bootstrap.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06/slider/css/images/ui-bg_flat_75_ffffff_40x100.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06/slider/css/images/ui-bg_glass_55_fbf9ee_1x400.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06/slider/css/images/ui-bg_glass_65_ffffff_1x400.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06/slider/css/images/ui-bg_glass_75_dadada_1x400.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06/slider/css/images/ui-bg_glass_75_e6e6e6_1x400.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06/slider/css/images/ui-bg_glass_95_fef1ec_1x400.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06/slider/css/images/ui-bg_highlight-soft_75_cccccc_1x100.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06/slider/css/images/ui-icons_222222_256x240.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06/slider/css/images/ui-icons_2e83ff_256x240.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06/slider/css/images/ui-icons_454545_256x240.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06/slider/css/images/ui-icons_888888_256x240.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06/slider/css/images/ui-icons_cd0a0a_256x240.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06/slider/css/jquery-ui.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06/slider/css/style.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06/slider/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06/slider/js/jquery-1.10.2.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06/slider/js/jquery-ui.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06/slider/js/react-dom.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06/slider/js/react.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06/slider/js/script.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06/slider/js/slider-buttons.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06/slider/js/slider-value.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06/slider/js/slider.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06/slider/jsx/script.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06/slider/jsx/slider-buttons.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch06/slider/jsx/slider-value.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch07-es5/account/css/bootstrap.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch07-es5/account/css/style.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch07-es5/account/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch07-es5/account/js/content.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch07-es5/account/js/react-15.0.2.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch07-es5/account/js/react-dom-15.0.2.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch07-es5/account/js/script.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch07-es5/account/jsx/content.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch07-es5/account/jsx/script.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch07-es5/elements/css/bootstrap.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch07-es5/elements/css/style.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch07-es5/elements/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch07-es5/elements/js/content.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch07-es5/elements/js/react-15.0.2.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch07-es5/elements/js/react-dom-15.0.2.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch07-es5/elements/js/script.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch07-es5/elements/jsx/content.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch07-es5/elements/jsx/script.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch07-es5/email/css/bootstrap.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch07-es5/email/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch07-es5/email/js/content.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch07-es5/email/js/react-15.0.2.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch07-es5/email/js/react-dom-15.0.2.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch07-es5/email/js/script.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch07-es5/email/jsx/content.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch07-es5/email/jsx/script.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch07-es5/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch07-es5/uncontrolled/css/bootstrap.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch07-es5/uncontrolled/css/style.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch07-es5/uncontrolled/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch07-es5/uncontrolled/js/content.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch07-es5/uncontrolled/js/react-15.0.2.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch07-es5/uncontrolled/js/react-dom-15.0.2.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch07-es5/uncontrolled/js/script.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch07-es5/uncontrolled/jsx/content.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch07-es5/uncontrolled/jsx/script.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch07/account/css/bootstrap.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch07/account/css/style.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch07/account/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch07/account/js/content.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch07/account/js/react-dom.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch07/account/js/react.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch07/account/js/script.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch07/account/jsx/content.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch07/account/jsx/script.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch07/elements/css/bootstrap.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch07/elements/css/style.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch07/elements/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch07/elements/js/content.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch07/elements/js/react-dom.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch07/elements/js/react.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch07/elements/js/script.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch07/elements/jsx/content.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch07/elements/jsx/script.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch07/email/css/bootstrap.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch07/email/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch07/email/js/content.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch07/email/js/react-dom.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch07/email/js/react.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch07/email/js/script.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch07/email/jsx/content.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch07/email/jsx/script.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch07/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch07/uncontrolled/css/bootstrap.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch07/uncontrolled/css/style.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch07/uncontrolled/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch07/uncontrolled/js/content.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch07/uncontrolled/js/react-dom.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch07/uncontrolled/js/react.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch07/uncontrolled/js/script.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch07/uncontrolled/jsx/content.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch07/uncontrolled/jsx/script.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch08-es5/children/JSXTransformer.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch08-es5/children/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch08-es5/children/react-dom.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch08-es5/children/react.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch08-es5/children/script.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch08-es5/default-props/JSXTransformer.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch08-es5/default-props/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch08-es5/default-props/react-dom.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch08-es5/default-props/react.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch08-es5/default-props/script.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch08-es5/mixins/JSXTransformer.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch08-es5/mixins/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch08-es5/mixins/logo.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch08-es5/mixins/react-dom.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch08-es5/mixins/react.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch08-es5/mixins/script.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch08-es5/prop-types/JSXTransformer.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch08-es5/prop-types/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch08-es5/prop-types/react-dom.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch08-es5/prop-types/react.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch08-es5/prop-types/script.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch08-es5/tooltip-logger/JSXTransformer.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch08-es5/tooltip-logger/bootstrap.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch08-es5/tooltip-logger/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch08-es5/tooltip-logger/logger.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch08-es5/tooltip-logger/react-dom.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch08-es5/tooltip-logger/react.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch08-es5/tooltip-logger/script.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch08/children/css/bootstrap.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch08/children/css/style.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch08/children/images/azat.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch08/children/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch08/children/js/content.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch08/children/js/react-dom.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch08/children/js/react.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch08/children/js/script.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch08/children/jsx/content.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch08/children/jsx/script.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch08/default-props/css/bootstrap.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch08/default-props/css/style.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch08/default-props/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch08/default-props/js/button.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch08/default-props/js/content.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch08/default-props/js/react-dom.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch08/default-props/js/react.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch08/default-props/js/script.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch08/default-props/jsx/button.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch08/default-props/jsx/content.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch08/default-props/jsx/script.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch08/hi-order/css/bootstrap.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch08/hi-order/css/style.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch08/hi-order/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch08/hi-order/js/content.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch08/hi-order/js/elements.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch08/hi-order/js/load-website.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch08/hi-order/js/react-dom.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch08/hi-order/js/react.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch08/hi-order/js/script.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch08/hi-order/jsx/content.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch08/hi-order/jsx/elements.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch08/hi-order/jsx/load-website.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch08/hi-order/jsx/script.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch08/hi-order/logo.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch08/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch08/prop-types/css/bootstrap.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch08/prop-types/css/style.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch08/prop-types/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch08/prop-types/js/button.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch08/prop-types/js/content.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch08/prop-types/js/prop-types.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch08/prop-types/js/react-dom.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch08/prop-types/js/react.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch08/prop-types/js/script.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch08/prop-types/jsx/button.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch08/prop-types/jsx/content.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch08/prop-types/jsx/script.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch09/menu-jsx/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch09/menu-jsx/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch09/menu-jsx/react-dom.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch09/menu-jsx/react.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch09/menu-jsx/script.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch09/menu-jsx/script.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch09/menu/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch09/menu/react-dom.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch09/menu/react.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch09/menu/script.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch10/tooltip/bootstrap.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch10/tooltip/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch10/tooltip/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch10/tooltip/react-dom.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch10/tooltip/react.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch10/tooltip/script.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch10/tooltip/script.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch11/timer/bootstrap.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch11/timer/flute_c_long_01.wav" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch11/timer/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch11/timer/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch11/timer/react-dom.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch11/timer/react.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch11/timer/timer.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch11/timer/timer.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch12/email-webpack-lint-flow/.eslintrc.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch12/email-webpack-lint-flow/.flowconfig" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch12/email-webpack-lint-flow/css/bootstrap.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch12/email-webpack-lint-flow/css/main.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch12/email-webpack-lint-flow/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch12/email-webpack-lint-flow/js/bundle.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch12/email-webpack-lint-flow/js/bundle.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch12/email-webpack-lint-flow/jsx/app.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch12/email-webpack-lint-flow/jsx/content.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch12/email-webpack-lint-flow/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch12/email-webpack-lint-flow/webpack.config.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch12/email-webpack-lint-flow/webpack.dev-cli.config.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch12/email-webpack-lint-flow/webpack.dev.config.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch12/email-webpack/css/bootstrap.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch12/email-webpack/css/main.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch12/email-webpack/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch12/email-webpack/js/bundle.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch12/email-webpack/js/bundle.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch12/email-webpack/jsx/app.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch12/email-webpack/jsx/content.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch12/email-webpack/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch12/email-webpack/webpack.config.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch12/email-webpack/webpack.dev-cli.config.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch12/email-webpack/webpack.dev.config.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch12/npm-script-hooks/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch13-es5/router/History.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch13-es5/router/ReactRouter.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch13-es5/router/bootstrap.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch13-es5/router/browser.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch13-es5/router/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch13-es5/router/react-dom.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch13-es5/router/react-router-active-component.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch13-es5/router/react.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch13/backbone-router/css/bootstrap.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch13/backbone-router/css/main.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch13/backbone-router/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch13/backbone-router/js/bundle.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch13/backbone-router/js/bundle.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch13/backbone-router/jsx/about.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch13/backbone-router/jsx/app.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch13/backbone-router/jsx/contact.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch13/backbone-router/jsx/content.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch13/backbone-router/jsx/login.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch13/backbone-router/jsx/post.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch13/backbone-router/jsx/posts.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch13/backbone-router/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch13/backbone-router/posts.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch13/backbone-router/webpack.config.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch13/naive-router/css/bootstrap.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch13/naive-router/css/main.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch13/naive-router/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch13/naive-router/js/bundle.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch13/naive-router/jsx/app.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch13/naive-router/jsx/router.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch13/naive-router/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch13/naive-router/webpack.config.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch13/router/css/bootstrap.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch13/router/css/main.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch13/router/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch13/router/js/bundle.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch13/router/js/bundle.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch13/router/jsx/about.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch13/router/jsx/app.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch13/router/jsx/contact.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch13/router/jsx/content.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch13/router/jsx/login.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch13/router/jsx/post.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch13/router/jsx/posts.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch13/router/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch13/router/posts.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch13/router/webpack.config.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch14/redux-netflix/.babelrc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch14/redux-netflix/build/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch14/redux-netflix/build/styles.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch14/redux-netflix/images/Avatar-Teaser-Poster.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch14/redux-netflix/images/Avengers_Age_of_Ultron.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch14/redux-netflix/images/Dark_knight_rises_poster.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch14/redux-netflix/images/John_carter_poster.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch14/redux-netflix/images/MV5BMjIwNTA1MDA2Ml5BMl5BanBnXkFtZTgwNzIzMTA5NDE@._V1_SX640_SY720_.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch14/redux-netflix/images/On_Stranger_Tides_Poster.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch14/redux-netflix/images/Pirates_AWE_Poster.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch14/redux-netflix/images/Spider-Man_3,_International_Poster.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch14/redux-netflix/images/Tangled_poster.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch14/redux-netflix/images/harry-potter-and-the-half-blood-prince.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch14/redux-netflix/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch14/redux-netflix/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch14/redux-netflix/src/components/App/app.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch14/redux-netflix/src/components/App/app.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch14/redux-netflix/src/components/Movie/movie.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch14/redux-netflix/src/components/Movie/movie.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch14/redux-netflix/src/components/Movies/movies.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch14/redux-netflix/src/components/Movies/movies.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch14/redux-netflix/src/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch14/redux-netflix/src/modules/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch14/redux-netflix/src/modules/movies.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch14/redux-netflix/src/movies.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch14/redux-netflix/src/routes.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch14/redux-netflix/webpack.config.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch15-es5/jest/__tests__/generate-password.test.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch15-es5/jest/bundle.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch15-es5/jest/generate-password.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch15-es5/jest/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch15-es5/jest/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch15-es5/jest/script.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch15-es5/password/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch15-es5/password/__tests__/generate-password.test.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch15-es5/password/__tests__/password.test.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch15-es5/password/css/bootstrap.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch15-es5/password/gulpfile.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch15-es5/password/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch15-es5/password/js/generate-password.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch15-es5/password/js/password.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch15-es5/password/js/password.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch15-es5/password/js/react-dom.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch15-es5/password/js/react-with-addons.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch15-es5/password/js/script.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch15-es5/password/js/script.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch15-es5/password/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch15-es5/password/password.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch15-es5/password/script.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch15/redux-graphql-netflix/build/public/images/Avatar-Teaser-Poster.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch15/redux-graphql-netflix/build/public/images/Avengers_Age_of_Ultron.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch15/redux-graphql-netflix/build/public/images/Dark_knight_rises_poster.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch15/redux-graphql-netflix/build/public/images/John_carter_poster.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch15/redux-graphql-netflix/build/public/images/MV5BMjIwNTA1MDA2Ml5BMl5BanBnXkFtZTgwNzIzMTA5NDE@._V1_SX640_SY720_.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch15/redux-graphql-netflix/build/public/images/On_Stranger_Tides_Poster.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch15/redux-graphql-netflix/build/public/images/Pirates_AWE_Poster.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch15/redux-graphql-netflix/build/public/images/Spider-Man_3,_International_Poster.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch15/redux-graphql-netflix/build/public/images/Tangled_poster.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch15/redux-graphql-netflix/build/public/images/harry-potter-and-the-half-blood-prince.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch15/redux-graphql-netflix/build/public/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch15/redux-graphql-netflix/build/public/styles.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch15/redux-graphql-netflix/build/server.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch15/redux-graphql-netflix/client/components/App/app.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch15/redux-graphql-netflix/client/components/App/app.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch15/redux-graphql-netflix/client/components/Movie/movie.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch15/redux-graphql-netflix/client/components/Movie/movie.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch15/redux-graphql-netflix/client/components/Movies/movies.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch15/redux-graphql-netflix/client/components/Movies/movies.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch15/redux-graphql-netflix/client/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch15/redux-graphql-netflix/client/modules/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch15/redux-graphql-netflix/client/modules/movies.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch15/redux-graphql-netflix/client/routes.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch15/redux-graphql-netflix/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch15/redux-graphql-netflix/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch15/redux-graphql-netflix/server/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch15/redux-graphql-netflix/server/movies.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch15/redux-graphql-netflix/server/schema.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch15/redux-graphql-netflix/webpack.config.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch15/redux-graphql-netflix/webpack.server.config.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch16/generate-password/__tests__/generate-password.test.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch16/generate-password/generate-password.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch16/generate-password/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch16/jest/__tests__/generate-password.test.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch16/jest/bundle.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch16/jest/generate-password.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch16/jest/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch16/jest/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch16/jest/script.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch16/password/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch16/password/__tests__/generate-password.test.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch16/password/__tests__/password.test.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch16/password/css/bootstrap.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch16/password/dist/bundle.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch16/password/dist/bundle.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch16/password/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch16/password/js/generate-password.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch16/password/js/rules.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch16/password/jsx/app.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch16/password/jsx/password-generate.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch16/password/jsx/password-info.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch16/password/jsx/password-input.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch16/password/jsx/password-visibility.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch16/password/jsx/password.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch16/password/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch16/password/webpack.config.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch16/testutils/__tests__/render-props.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch16/testutils/__tests__/scry-div.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch16/testutils/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch17/message-board/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch17/message-board/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch17/message-board/client/app.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch17/message-board/components/board.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch17/message-board/components/footer.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch17/message-board/components/header.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch17/message-board/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch17/message-board/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch17/message-board/public/css/bootstrap-responsive.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch17/message-board/public/css/bootstrap-responsive.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch17/message-board/public/css/bootstrap.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch17/message-board/public/css/bootstrap.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch17/message-board/public/js/bundle.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch17/message-board/public/js/bundle.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch17/message-board/views/index.hbs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch17/message-board/webpack.config.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch17/node/email.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch17/node/email.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch17/node/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch17/node/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch17/react-express/components/about.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch17/react-express/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch17/react-express/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch17/react-express/views/about.hbs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch18/nile/css/bootstrap.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch18/nile/images/expressapiref-cover.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch18/nile/images/fullstack-cover.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch18/nile/images/practicalnode-cover.jpeg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch18/nile/images/proexpress-cover.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch18/nile/images/reactquickly-cover.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch18/nile/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch18/nile/js/bundle.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch18/nile/js/bundle.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch18/nile/jsx/app.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch18/nile/jsx/cart.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch18/nile/jsx/checkout.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch18/nile/jsx/modal.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch18/nile/jsx/product.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch18/nile/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch18/nile/webpack.config.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch20/autocomplete/__tests__/autocomplete.test.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch20/autocomplete/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch20/autocomplete/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch20/autocomplete/public/css/bootstrap.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch20/autocomplete/public/js/app.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch20/autocomplete/public/js/app.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch20/autocomplete/rooms.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch20/autocomplete/src/app.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch20/autocomplete/src/autocomplete.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch20/autocomplete/views/index.handlebars" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/ch20/autocomplete/webpack.config.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/libs/bootstrap-3.3.5-dist.zip" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/libs/bootstrap-3.3.5-dist/css/bootstrap-theme.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/libs/bootstrap-3.3.5-dist/css/bootstrap-theme.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/libs/bootstrap-3.3.5-dist/css/bootstrap-theme.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/libs/bootstrap-3.3.5-dist/css/bootstrap.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/libs/bootstrap-3.3.5-dist/css/bootstrap.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/libs/bootstrap-3.3.5-dist/css/bootstrap.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/libs/bootstrap-3.3.5-dist/fonts/glyphicons-halflings-regular.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/libs/bootstrap-3.3.5-dist/fonts/glyphicons-halflings-regular.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/libs/bootstrap-3.3.5-dist/fonts/glyphicons-halflings-regular.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/libs/bootstrap-3.3.5-dist/fonts/glyphicons-halflings-regular.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/libs/bootstrap-3.3.5-dist/fonts/glyphicons-halflings-regular.woff2" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/libs/bootstrap-3.3.5-dist/js/bootstrap.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/libs/bootstrap-3.3.5-dist/js/bootstrap.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/libs/bootstrap-3.3.5-dist/js/npm.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/libs/bower_components/react-bootstrap/.bower.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/libs/bower_components/react-bootstrap/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/libs/bower_components/react-bootstrap/bower.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/libs/bower_components/react-bootstrap/react-bootstrap.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/libs/bower_components/react-bootstrap/react-bootstrap.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/libs/bower_components/react-bootstrap/react-bootstrap.min.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/libs/bower_components/react/.bower.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/libs/bower_components/react/JSXTransformer.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/libs/bower_components/react/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/libs/bower_components/react/PATENTS" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/libs/bower_components/react/bower.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/libs/bower_components/react/react-with-addons.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/libs/bower_components/react/react-with-addons.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/libs/bower_components/react/react.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/libs/bower_components/react/react.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/libs/bower_components/reflux/.bower.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/libs/bower_components/reflux/CHANGELOG.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/libs/bower_components/reflux/LICENSE.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/libs/bower_components/reflux/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/libs/bower_components/reflux/bower.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/libs/bower_components/reflux/dist/reflux.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/libs/bower_components/reflux/dist/reflux.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/libs/react-0.14.2.zip" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/libs/react-0.14.2/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/libs/react-0.14.2/build/react-dom.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/libs/react-0.14.2/build/react-dom.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/libs/react-0.14.2/build/react-with-addons.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/libs/react-0.14.2/build/react-with-addons.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/libs/react-0.14.2/build/react.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/libs/react-0.14.2/build/react.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/libs/react-0.14.2/examples/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/libs/react-0.14.2/examples/basic-click-counter/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/libs/react-0.14.2/examples/basic-commonjs/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/libs/react-0.14.2/examples/basic-commonjs/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/libs/react-0.14.2/examples/basic-commonjs/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/libs/react-0.14.2/examples/basic-commonjs/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/libs/react-0.14.2/examples/basic-jsx-external/example.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/libs/react-0.14.2/examples/basic-jsx-external/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/libs/react-0.14.2/examples/basic-jsx-harmony/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/libs/react-0.14.2/examples/basic-jsx-precompile/example.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/libs/react-0.14.2/examples/basic-jsx-precompile/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/libs/react-0.14.2/examples/basic-jsx/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/libs/react-0.14.2/examples/basic/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/libs/react-0.14.2/examples/jquery-bootstrap/css/example.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/libs/react-0.14.2/examples/jquery-bootstrap/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/libs/react-0.14.2/examples/jquery-bootstrap/js/app.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/libs/react-0.14.2/examples/jquery-mobile/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/libs/react-0.14.2/examples/jquery-mobile/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/libs/react-0.14.2/examples/jquery-mobile/js/app.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/libs/react-0.14.2/examples/quadratic/example.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/libs/react-0.14.2/examples/quadratic/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/libs/react-0.14.2/examples/shared/css/base.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/libs/react-0.14.2/examples/transitions/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/libs/react-0.14.2/examples/transitions/transition.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/projects/autocomplete-reflux-gulp-es5/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/projects/autocomplete-reflux-gulp-es5/__tests__/autocomplete.test.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/projects/autocomplete-reflux-gulp-es5/gulpfile.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/projects/autocomplete-reflux-gulp-es5/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/projects/autocomplete-reflux-gulp-es5/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/projects/autocomplete-reflux-gulp-es5/public/css/bootstrap.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/projects/autocomplete-reflux-gulp-es5/public/js/app.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/projects/autocomplete-reflux-gulp-es5/rooms.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/projects/autocomplete-reflux-gulp-es5/src/app.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/projects/autocomplete-reflux-gulp-es5/src/autocomplete.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/projects/autocomplete-reflux-gulp-es5/src/build/app.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/projects/autocomplete-reflux-gulp-es5/src/build/autocomplete.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/projects/autocomplete-reflux-gulp-es5/views/index.handlebars" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/projects/board-reflux/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/projects/board-reflux/gulpfile.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/projects/board-reflux/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/projects/board-reflux/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/projects/board-reflux/public/css/bootstrap-responsive.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/projects/board-reflux/public/css/bootstrap.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/projects/board-reflux/public/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/projects/board-reflux/public/js/app.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/projects/board-reflux/public/js/app.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/projects/board-reflux/public/js/jquery-1.11.3.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/projects/board-reflux/public/js/react-dom.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/projects/board-reflux/public/js/react.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/projects/board-reflux/public/js/reflux.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/projects/board/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/projects/board/gulpfile.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/projects/board/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/projects/board/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/projects/board/public/css/bootstrap-responsive.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/projects/board/public/css/bootstrap-responsive.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/projects/board/public/css/bootstrap.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/projects/board/public/css/bootstrap.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/projects/board/public/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/projects/board/public/js/app.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/projects/board/public/js/app.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/projects/board/public/js/jquery-1.11.3.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/projects/board/public/js/react-dom.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/projects/board/public/js/react.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/bootstrap4.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/ch11-old/es6/bundle.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/ch11-old/es6/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/ch11-old/es6/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/ch11-old/es6/src/app.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/ch11-old/es6/webpack.config.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/ch11-old/router/History.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/ch11-old/router/ReactRouter.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/ch11-old/router/bootstrap.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/ch11-old/router/browser.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/ch11-old/router/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/ch11-old/router/react-dom.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/ch11-old/router/react-router-active-component.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/ch11-old/router/react.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/ch11-old/stateless/bootstrap.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/ch11-old/stateless/browser.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/ch11-old/stateless/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/ch11-old/stateless/react-dom.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/ch11-old/stateless/react.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/ch11-old/zip/bootstrap.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/ch11-old/zip/browser.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/ch11-old/zip/index-es6.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/ch11-old/zip/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/ch11-old/zip/jquery.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/ch11-old/zip/jquery.ziptastic.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/ch11-old/zip/react-dom.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/ch11-old/zip/react.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/ch11-old/zip/spinner.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/chat-meteor/.meteor/.finished-upgraders" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/chat-meteor/.meteor/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/chat-meteor/.meteor/.id" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/chat-meteor/.meteor/packages" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/chat-meteor/.meteor/platforms" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/chat-meteor/.meteor/release" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/chat-meteor/.meteor/versions" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/chat-meteor/chat-meteor.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/chat-meteor/chat-meteor.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/chat-meteor/chat-meteor.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/chat-meteor/readme.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/dateTime.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/dateTime.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/hello-js-world-jquery/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/hello-js-world-jquery/script.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/hello-world-jquery/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/hello-world-jquery/js/jquery-2.1.4.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/hello-world-jquery/js/react-15.0.2.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/hello-world-jquery/js/react-dom-15.0.2.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/imperative-declarative/nested-value.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/menu-if-else/JSXTransformer.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/menu-if-else/browser.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/menu-if-else/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/menu-if-else/react-dom.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/menu-if-else/react.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/menu-if-else/script.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/nested-no-jsx.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/properties/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/properties/js/react-15.0.2.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/properties/js/react-dom-15.0.2.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/properties/js/script.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/properties/js/script.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/react-native/timer/.flowconfig" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/react-native/timer/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/react-native/timer/.watchmanconfig" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/react-native/timer/android/app/build.gradle" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/react-native/timer/android/app/proguard-rules.pro" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/react-native/timer/android/app/react.gradle" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/react-native/timer/android/app/src/main/AndroidManifest.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/react-native/timer/android/app/src/main/java/com/timer/MainActivity.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/react-native/timer/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/react-native/timer/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/react-native/timer/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/react-native/timer/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/react-native/timer/android/app/src/main/res/values/strings.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/react-native/timer/android/app/src/main/res/values/styles.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/react-native/timer/android/build.gradle" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/react-native/timer/android/gradle.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/react-native/timer/android/gradle/wrapper/gradle-wrapper.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/react-native/timer/android/gradle/wrapper/gradle-wrapper.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/react-native/timer/android/gradlew" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/react-native/timer/android/gradlew.bat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/react-native/timer/android/settings.gradle" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/react-native/timer/flute_c_long_01.wav" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/react-native/timer/index.android.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/react-native/timer/index.ios.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/react-native/timer/ios/timer.xcodeproj/project.pbxproj" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/react-native/timer/ios/timer.xcodeproj/xcshareddata/xcschemes/timer.xcscheme" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/react-native/timer/ios/timer/AppDelegate.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/react-native/timer/ios/timer/AppDelegate.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/react-native/timer/ios/timer/Base.lproj/LaunchScreen.xib" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/react-native/timer/ios/timer/Images.xcassets/AppIcon.appiconset/Contents.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/react-native/timer/ios/timer/Info.plist" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/react-native/timer/ios/timer/main.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/react-native/timer/ios/timerTests/Info.plist" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/react-native/timer/ios/timerTests/timerTests.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/react-native/timer/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/react-native/weather/.flowconfig" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/react-native/weather/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/react-native/weather/.watchmanconfig" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/react-native/weather/android/app/build.gradle" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/react-native/weather/android/app/proguard-rules.pro" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/react-native/weather/android/app/react.gradle" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/react-native/weather/android/app/src/main/AndroidManifest.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/react-native/weather/android/app/src/main/java/com/weather/MainActivity.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/react-native/weather/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/react-native/weather/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/react-native/weather/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/react-native/weather/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/react-native/weather/android/app/src/main/res/values/strings.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/react-native/weather/android/app/src/main/res/values/styles.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/react-native/weather/android/build.gradle" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/react-native/weather/android/gradle.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/react-native/weather/android/gradle/wrapper/gradle-wrapper.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/react-native/weather/android/gradle/wrapper/gradle-wrapper.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/react-native/weather/android/gradlew" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/react-native/weather/android/gradlew.bat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/react-native/weather/android/settings.gradle" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/react-native/weather/forecast.ios.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/react-native/weather/index.android.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/react-native/weather/index.ios.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/react-native/weather/ios/weather.xcodeproj/project.pbxproj" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/react-native/weather/ios/weather.xcodeproj/xcshareddata/xcschemes/weather.xcscheme" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/react-native/weather/ios/weather/AppDelegate.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/react-native/weather/ios/weather/AppDelegate.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/react-native/weather/ios/weather/Base.lproj/LaunchScreen.xib" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/react-native/weather/ios/weather/Images.xcassets/AppIcon.appiconset/Contents.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/react-native/weather/ios/weather/Info.plist" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/react-native/weather/ios/weather/main.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/react-native/weather/ios/weatherTests/Info.plist" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/react-native/weather/ios/weatherTests/weatherTests.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/react-native/weather/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/react-native/weather/response.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/react-native/weather/search.ios.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/react-native/weather/weather-api.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/reflux/JSXTransformer.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/reflux/bootstrap.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/reflux/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/reflux/react-dom.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/reflux/react.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/reflux/reflux.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/rock-paper-scissors-es5/.meteor/.finished-upgraders" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/rock-paper-scissors-es5/.meteor/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/rock-paper-scissors-es5/.meteor/.id" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/rock-paper-scissors-es5/.meteor/packages" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/rock-paper-scissors-es5/.meteor/platforms" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/rock-paper-scissors-es5/.meteor/release" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/rock-paper-scissors-es5/.meteor/versions" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/rock-paper-scissors-es5/client/lib/rsp.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/rock-paper-scissors-es5/public/rock-paper-scissors.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/rock-paper-scissors-es5/readme.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/rock-paper-scissors-es5/rock-paper-scissors.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/rock-paper-scissors-es5/rock-paper-scissors.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/rock-paper-scissors-es5/rock-paper-scissors.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/rock-paper-scissors/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/rock-paper-scissors/.meteor/.finished-upgraders" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/rock-paper-scissors/.meteor/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/rock-paper-scissors/.meteor/.id" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/rock-paper-scissors/.meteor/packages" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/rock-paper-scissors/.meteor/platforms" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/rock-paper-scissors/.meteor/release" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/rock-paper-scissors/.meteor/versions" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/rock-paper-scissors/client/main.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/rock-paper-scissors/client/main.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/rock-paper-scissors/client/main.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/rock-paper-scissors/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/rock-paper-scissors/server/main.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/state/JSXTransformer.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/state/browser.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/state/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/state/react-dom.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/state/react.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/state/script.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/tooltip-logger (mixin)/JSXTransformer.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/tooltip-logger (mixin)/bootstrap.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/tooltip-logger (mixin)/css/bootstrap.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/tooltip-logger (mixin)/css/style.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/tooltip-logger (mixin)/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/tooltip-logger (mixin)/js/button.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/tooltip-logger (mixin)/js/content.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/tooltip-logger (mixin)/js/react-15.0.2.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/tooltip-logger (mixin)/js/react-dom-15.0.2.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/tooltip-logger (mixin)/js/script.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/tooltip-logger (mixin)/jsx/button.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/tooltip-logger (mixin)/jsx/content.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/tooltip-logger (mixin)/jsx/script.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/tooltip-logger (mixin)/logger.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/tooltip-logger (mixin)/react-dom.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/tooltip-logger (mixin)/react.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/tooltip-logger (mixin)/script.jsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/react-quickly-codebook/spare-parts/userSession.js" />
+      <change beforePath="$PROJECT_DIR$/.babelrc" afterPath="$PROJECT_DIR$/.babelrc" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/webpack.config.js" afterPath="$PROJECT_DIR$/webpack.config.js" />
+      <change beforePath="$PROJECT_DIR$/assets/style.css" afterPath="$PROJECT_DIR$/assets/style.css" />
+      <change beforePath="$PROJECT_DIR$/client/components/timer/Slider.jsx" afterPath="$PROJECT_DIR$/client/components/timer/Slider.jsx" />
+      <change beforePath="$PROJECT_DIR$/client/index.html" afterPath="$PROJECT_DIR$/client/index.html" />
+      <change beforePath="$PROJECT_DIR$/client/index.js" afterPath="$PROJECT_DIR$/client/index.js" />
+      <change beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change beforePath="$PROJECT_DIR$/pages.txt" afterPath="$PROJECT_DIR$/pages.txt" />
+      <change beforePath="$PROJECT_DIR$/react-quickly-painless-redux-graphql.pdf" afterPath="$PROJECT_DIR$/react-quickly-painless-redux-graphql.pdf" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" afterPath="$PROJECT_DIR$/yarn.lock" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,54 +1123,22 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="TimerWrapper.jsx" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/client/components/timer/TimerWrapper.jsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="24" lean-forward="false" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Button.jsx" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/client/components/timer/Button.jsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="19" column="15" lean-forward="false" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dist/index.html">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/index.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="0" column="8" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="44" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Tooltip.jsx" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/client/components/Tooltip.jsx">
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="516">
-              <caret line="42" column="40" lean-forward="false" selection-start-line="42" selection-start-column="40" selection-end-line="42" selection-end-column="40" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="webpack.config.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/webpack.config.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="31" lean-forward="false" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
+            <state relative-caret-position="240">
+              <caret line="16" column="24" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -70,15 +1148,91 @@
         <entry file="file://$PROJECT_DIR$/client/components/App.jsx">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
-              <caret line="4" column="12" lean-forward="false" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="12" />
+              <caret line="3" column="30" lean-forward="false" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Tooltip.jsx" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/components/Tooltip.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
               <folding>
-                <marker date="1514880097000" expanded="true" signature="7:131" ph="..." />
+                <element signature="e#0#26#0" expanded="true" />
+                <element signature="n#Tooltip#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="App.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/toDo/components/App.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="7" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
+              <folding>
+                <element signature="e#0#25#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Footer.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/toDo/components/Footer.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="7" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
+              <folding>
+                <element signature="e#0#25#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FilterLink.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/toDo/containers/FilterLink.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="18" column="27" lean-forward="false" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+              <folding>
+                <element signature="e#0#37#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="webpack.config.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/webpack.config.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="39" lean-forward="false" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>store</find>
+      <find>movies</find>
+      <find>fetchMovies</find>
+      <find>movies.all</find>
+      <find>all</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -86,17 +1240,42 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/.babelrc" />
-        <option value="$PROJECT_DIR$/client/index.html" />
-        <option value="$PROJECT_DIR$/client/index.js" />
         <option value="$PROJECT_DIR$/client/components/Tooltip.jsx" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/client/components/timer/Timer.jsx" />
         <option value="$PROJECT_DIR$/client/components/timer/Button.jsx" />
-        <option value="$PROJECT_DIR$/pages.txt" />
         <option value="$PROJECT_DIR$/client/components/App.jsx" />
         <option value="$PROJECT_DIR$/client/components/timer/TimerWrapper.jsx" />
         <option value="$PROJECT_DIR$/webpack.config.js" />
+        <option value="$PROJECT_DIR$/assets/style.css" />
+        <option value="$PROJECT_DIR$/react-quickly-codebook/ch14/redux-netflix/package-lock.json" />
+        <option value="$PROJECT_DIR$/pages.txt" />
+        <option value="$PROJECT_DIR$/client/components/movies/MoviesWrapper.jsx" />
+        <option value="$PROJECT_DIR$/react-quickly-codebook/ch14/redux-netflix/package.json" />
+        <option value="$PROJECT_DIR$/react-quickly-codebook/ch14/redux-netflix/.babelrc" />
+        <option value="$PROJECT_DIR$/react-quickly-codebook/ch14/redux-netflix/webpack.config.js" />
+        <option value="$PROJECT_DIR$/client/modules/movies.jsx" />
+        <option value="$PROJECT_DIR$/.babelrc" />
+        <option value="$PROJECT_DIR$/client/components/timer/Slider.jsx" />
+        <option value="$PROJECT_DIR$/client/toDo/actions/index.js" />
+        <option value="$PROJECT_DIR$/client/toDo/reducers/todo.js" />
+        <option value="$PROJECT_DIR$/client/toDo/reducers/visibilityFilter.js" />
+        <option value="$PROJECT_DIR$/client/toDo/components/Todo.js" />
+        <option value="$PROJECT_DIR$/client/toDo/components/TodoList.js" />
+        <option value="$PROJECT_DIR$/client/toDo/components/Link.js" />
+        <option value="$PROJECT_DIR$/client/toDo/components/App.js" />
+        <option value="$PROJECT_DIR$/client/toDo/containers/VisibleTodoList.js" />
+        <option value="$PROJECT_DIR$/client/toDo/containers/FilterLink.js" />
+        <option value="$PROJECT_DIR$/client/toDo/containers/AddTodo.js" />
+        <option value="$PROJECT_DIR$/client/toDo/components/Footer.js" />
+        <option value="$PROJECT_DIR$/client/toDo/reducers/index.js" />
+        <option value="$PROJECT_DIR$/client/modules/index.js" />
+        <option value="$PROJECT_DIR$/client/routes.jsx" />
+        <option value="$PROJECT_DIR$/client/components/moviesWrapper/MoviesWrapper.jsx" />
+        <option value="$PROJECT_DIR$/react-quickly-codebook/ch14/redux-netflix/src/modules/movies.js" />
+        <option value="$PROJECT_DIR$/client/components/moviesWrapper/movies/movies.jsx" />
+        <option value="$PROJECT_DIR$/client/index.html" />
+        <option value="$PROJECT_DIR$/client/index.js" />
       </list>
     </option>
   </component>
@@ -114,11 +1293,12 @@
   </component>
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/node_modules" />
+    <handled-path value="$PROJECT_DIR$/react-quickly-codebook/ch14/redux-netflix/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1280" />
-    <option name="height" value="709" />
+    <option name="height" value="730" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -152,6 +1332,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -159,16 +1340,10 @@
               <item name="react-quickly-painless-redux-graphql" type="b2602c69:ProjectViewProjectNode" />
               <item name="react-quickly-painless-redux-graphql" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="react-quickly-painless-redux-graphql" type="b2602c69:ProjectViewProjectNode" />
-              <item name="react-quickly-painless-redux-graphql" type="462c0819:PsiDirectoryNode" />
-              <item name="dist" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -177,6 +1352,15 @@
     <property name="JavaScriptWeakerCompletionTypeGuess" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/client" />
+      <recent name="$PROJECT_DIR$/assets" />
+      <recent name="$PROJECT_DIR$/client/components/moviesWrapper" />
+      <recent name="$PROJECT_DIR$/client/components/moviesWrapper/movies" />
+      <recent name="$PROJECT_DIR$/react-quickly-codebook/ch14/redux-netflix" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -205,45 +1389,37 @@
       <option name="presentableId" value="Default" />
       <updated>1513936836946</updated>
       <workItem from="1513936838588" duration="8992000" />
+      <workItem from="1515428590107" duration="1239000" />
+      <workItem from="1515429873421" duration="16970000" />
+      <workItem from="1515761312733" duration="3073000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15283000" />
+    <option name="totallyTimeSpent" value="49226000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="709" extended-state="0" />
+    <frame x="0" y="23" width="1280" height="730" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20840065" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21001616" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20840065" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298193" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -257,263 +1433,327 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.babelrc">
+    <entry file="file://$PROJECT_DIR$/assets/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
+          <caret line="1" column="20" lean-forward="false" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/client/index.js">
+    <entry file="file://$PROJECT_DIR$/client/components/timer/TimerWrapper.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="58" lean-forward="false" selection-start-line="6" selection-start-column="58" selection-end-line="6" selection-end-column="58" />
-          <folding>
-            <element signature="e#0#46#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="105">
+          <caret line="7" column="34" lean-forward="true" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/client/index.html">
+    <entry file="file://$PROJECT_DIR$/pages.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webpack.config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="55" lean-forward="false" selection-start-line="31" selection-start-column="55" selection-end-line="31" selection-end-column="55" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/components/App.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="1" lean-forward="false" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-          <folding>
-            <marker date="1514880097000" expanded="true" signature="7:131" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/components/Tooltip.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="516">
-          <caret line="42" column="40" lean-forward="false" selection-start-line="42" selection-start-column="40" selection-end-line="42" selection-end-column="40" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dist/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="17" lean-forward="true" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.babelrc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="58" lean-forward="false" selection-start-line="6" selection-start-column="58" selection-end-line="6" selection-end-column="58" />
-          <folding>
-            <element signature="e#0#46#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webpack.config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="55" lean-forward="false" selection-start-line="31" selection-start-column="55" selection-end-line="31" selection-end-column="55" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/components/App.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="1" lean-forward="false" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-          <folding>
-            <marker date="1514880097000" expanded="true" signature="7:131" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/components/Tooltip.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="516">
-          <caret line="42" column="40" lean-forward="false" selection-start-line="42" selection-start-column="40" selection-end-line="42" selection-end-column="40" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="17" lean-forward="false" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dist/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="6" lean-forward="false" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.babelrc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="58" lean-forward="false" selection-start-line="6" selection-start-column="58" selection-end-line="6" selection-end-column="58" />
-          <folding>
-            <element signature="e#0#46#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/components/Tooltip.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="516">
-          <caret line="42" column="40" lean-forward="false" selection-start-line="42" selection-start-column="40" selection-end-line="42" selection-end-column="40" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dist/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="-86">
+          <caret line="0" column="3" lean-forward="false" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/client/components/timer/Button.jsx">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yarn-error.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-quickly-codebook/ch14/redux-netflix/package-lock.json" />
+    <entry file="file://$PROJECT_DIR$/react-quickly-codebook/ch14/redux-netflix/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="42" column="24" lean-forward="false" selection-start-line="42" selection-start-column="24" selection-end-line="42" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-quickly-codebook/ch14/redux-netflix/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="25" lean-forward="false" selection-start-line="34" selection-start-column="25" selection-end-line="34" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-quickly-codebook/ch14/redux-netflix/.babelrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/components/moviesWrapper/movies/movies.css" />
+    <entry file="file://$PROJECT_DIR$/.babelrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/toDo/reducers/visibilityFilter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/toDo/components/Todo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="19" lean-forward="false" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/toDo/components/TodoList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="23" lean-forward="false" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/toDo/components/Link.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="19" lean-forward="false" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/modules/movies.jsx" />
+    <entry file="file://$PROJECT_DIR$/react-quickly-codebook/ch14/redux-netflix/src/components/App/app.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/components/moviesWrapper/movie/movie.js" />
+    <entry file="file://$PROJECT_DIR$/client/components/timer/Slider.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="22" lean-forward="true" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/components/timer/StopStarBtn.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/components/timer/Audio.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/components/timer/Tmr.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/toDo/reducers/todos.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="20" lean-forward="false" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/toDo/reducers/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="7" lean-forward="true" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#39#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-quickly-codebook/ch14/redux-netflix/src/components/App/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/modules/index.js" />
+    <entry file="file://$PROJECT_DIR$/client/toDo/actions/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="1" lean-forward="false" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/toDo/containers/VisibleTodoList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="35" column="30" lean-forward="false" selection-start-line="35" selection-start-column="30" selection-end-line="35" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/toDo/containers/AddTodo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-216">
+          <caret line="5" column="13" lean-forward="true" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-quickly-codebook/ch14/redux-netflix/build/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="37278" column="16" lean-forward="false" selection-start-line="37278" selection-start-column="16" selection-end-line="37278" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/movies.json" />
+    <entry file="file://$PROJECT_DIR$/react-quickly-codebook/ch14/redux-netflix/src/movies.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="28" lean-forward="false" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-quickly-codebook/ch14/redux-netflix/src/routes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="35" lean-forward="true" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-quickly-codebook/ch14/redux-netflix/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-quickly-codebook/ch14/redux-netflix/src/modules/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="34" lean-forward="true" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-quickly-codebook/ch14/redux-netflix/src/components/Movie/movie.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="3" lean-forward="true" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-quickly-codebook/ch14/redux-netflix/src/components/Movies/movies.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="21" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-quickly-codebook/ch14/redux-netflix/src/modules/movies.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="22" lean-forward="false" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/components/moviesWrapper/MoviesWrapper.jsx" />
+    <entry file="file://$PROJECT_DIR$/client/components/moviesWrapper/movies/movies.jsx" />
+    <entry file="file://$PROJECT_DIR$/client/toDo/components/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="7" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/toDo/components/Footer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="7" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/toDo/containers/FilterLink.js">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="19" column="15" lean-forward="false" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
+          <caret line="18" column="27" lean-forward="false" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/routes.jsx" />
+    <entry file="file://$PROJECT_DIR$/client/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="39" lean-forward="false" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/components/Tooltip.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+            <element signature="n#Tooltip#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/client/components/App.jsx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
-          <caret line="4" column="12" lean-forward="false" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="12" />
-          <folding>
-            <marker date="1514880097000" expanded="true" signature="7:131" ph="..." />
-          </folding>
+          <caret line="3" column="30" lean-forward="false" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dist/index_bundle.js">
+    <entry file="file://$PROJECT_DIR$/node_modules/.bin/webpack-dev-server">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state relative-caret-position="-979">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages.txt">
+    <entry file="file://$PROJECT_DIR$/client/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="3" lean-forward="false" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
+          <caret line="0" column="8" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="44" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="17" lean-forward="true" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="90" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/components/timer/Timer.jsx">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="16" column="21" lean-forward="false" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dist/89889688147bd7575d6327160d64e760.svg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/components/timer/TimerWrapper.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="24" lean-forward="false" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+          <caret line="16" column="24" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/webpack.config.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="31" lean-forward="false" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
+        <state relative-caret-position="132">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding />
         </state>
       </provider>

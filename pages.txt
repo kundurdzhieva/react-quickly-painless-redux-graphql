@@ -1,4 +1,4 @@
-314 page
+360 page
 
 const webpack = require('webpack')
 

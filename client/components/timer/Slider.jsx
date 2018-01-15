@@ -2,7 +2,6 @@ import React from 'react';
 
 const Slider = (props) => {
 
-    console.log('aaaa', props.max);
     return (
         <input type="range"
                value={props.value}
