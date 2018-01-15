@@ -31,7 +31,8 @@ module.exports = {
     ],
     resolve: {
         modules: ["node_modules", "client/components"],
-        extensions: [".js", ".jsx", " "]
-    }
+        extensions: [".js", ".jsx", ".json", " "]
+    },
+    devtool: 'source-map'
 };
 
