@@ -3,7 +3,7 @@ import posts from '../../../posts.json';
 
 
 function Product(props) {
-    console.log('aaaaaaaa',props);
+
     let post = posts.find(element=>element.slug === props.match.params.id);
     return (
         <div>

@@ -9,6 +9,8 @@ import {withRouter} from 'react-router'
 import Contacts from './Contacts.jsx';
 import Posts from './Posts.jsx';
 import Post from './Post.jsx';
+import Movies from '../Movies';
+
 
 const Home = ({routes}) => <h2>Home</h2>;
 const About = ({routes}) => <h2>About</h2>;
@@ -34,6 +36,7 @@ class NavBar extends React.Component {
                                 <Li to="/about" label="About"/>
                                 <Li to="/posts" posts={this.state.posts} label="Posts"/>
                                 <Li to="/contacts" label="Contacts"/>
+                                <Li to="/movies" label="Movies"/>
                             </ul>
                         </div>
                     </nav>
@@ -43,6 +46,7 @@ class NavBar extends React.Component {
                     <Route exact path="/posts" component={Posts}/>
                     <Route path="/posts/:id" component={Post}/>
                     <Route path="/contacts" component={withRouter(Contacts)}/>
+                    <Route path="/movies" component={withRouter(Movies)}/>
                 </div>
             </Router>
         )

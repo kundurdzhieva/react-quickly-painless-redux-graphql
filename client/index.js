@@ -2,30 +2,26 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 import React from 'react';
 import ReactDOM from 'react-dom';
-import { Provider } from 'react-redux';
-import { createStore } from 'redux';
+import {Provider} from 'react-redux';
+import {createStore} from 'redux';
 
-import { render } from 'react-dom'
+import reducers from './components/Movies/reducers'
 
 import App from './components/App';
 
-import todoApp from './toDo/reducers'
-import AppSec from './toDo/components/App'
+// import todoApp from './toDo/reducers'
+// import AppSec from './toDo/components/App'
 
-let store = createStore(todoApp)
+let store = createStore(reducers);
 
-render(
+console.log(store);
+
+ReactDOM.render(
     <Provider store={store}>
-        <App />
+        <div>
+            <App/>
+            {/*<AppSec/>*/}
+        </div>
     </Provider>,
     document.getElementById('root')
-)
-ReactDOM.render(<App />, document.getElementById('root'));
-
-////toDo
-render(
-    <Provider store={store}>
-        <AppSec />
-    </Provider>,
-    document.getElementById('appSec')
-)
+);
