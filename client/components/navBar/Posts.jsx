@@ -2,7 +2,6 @@ import React from 'react';
 import {Link} from 'react-router-dom';
 
 function Posts(props) {
-    console.log('eheee', props);
     return <div>Posts
         <ol>
             {props.location.state && props.location.state.posts.map((post, index)=>

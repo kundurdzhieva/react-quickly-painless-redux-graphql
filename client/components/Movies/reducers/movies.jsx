@@ -1,19 +1,22 @@
 export default (state = [], action) => {
 
+
     switch (action.type){
 
         case 'FETCH_MOVIES':
-
-            return {
+console.log('aaaaaaa', state)
+            return [
                 ...state,
-                all: action.movies
-            };
+                Object.assign({}, action.movies)
+            ]
         case 'FETCH_MOVIE':
             return {
                 ...state,
-                current: action.movies
+                current: action.movie
             };
         default:
+
+            console.log('ccccccc')
             return state;
     }
 };
