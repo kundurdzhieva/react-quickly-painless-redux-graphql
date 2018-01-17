@@ -10,6 +10,7 @@ import Contacts from './Contacts.jsx';
 import Posts from './Posts.jsx';
 import Post from './Post.jsx';
 import Movies from '../Movies';
+import Movie from '../Movie';
 
 
 const Home = ({routes}) => <h2>Home</h2>;
@@ -46,7 +47,8 @@ class NavBar extends React.Component {
                     <Route exact path="/posts" component={Posts}/>
                     <Route path="/posts/:id" component={Post}/>
                     <Route path="/contacts" component={withRouter(Contacts)}/>
-                    <Route path="/movies" component={withRouter(Movies)}/>
+                    <Route exact path="/movies" component={withRouter(Movies)}/>
+                    <Route path="/movies/:id" component={Movie}/>
                 </div>
             </Router>
         )

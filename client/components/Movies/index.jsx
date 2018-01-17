@@ -1,46 +1,58 @@
 import React from 'react';
-import movies from '../../../movies.json';
 import {connect} from 'react-redux';
+import {
+    Link
+} from 'react-router-dom'
+
 import * as fetchBooks from './actions/index';
-const styles = require('./movies.css')
+import movies from '../../../movies.json';
+import './movies.css';
+
 
 class Movies extends React.Component {
 
     constructor(props){
-        super(props)
+        super(props);
+
     }
 
-    componentDidMount() {
+    componentWillMount() {
         this.props.fetchMovies(movies);
-        console.log('grah', this.props)
+
     }
 
     render() {
 
+        const {
+            children,
+            movies = []
+        } = this.props;
+
+        const params = this.props.match.params;
+
         return (
-            <div className={styles.movies}>
-                asdasdasd
-                {/*<div className={params.id ? styles.listHidden : styles.list}>*/}
-                    {/*{movies.map((movie, index) => (*/}
-                        {/*<Link*/}
-                            {/*key={index}*/}
-                            {/*to={`/movies/${index + 1}`}>*/}
-                            {/*<div*/}
-                                {/*className={styles.movie}*/}
-                                {/*style={{backgroundImage: `url(${movie.cover})`}} />*/}
-                        {/*</Link>*/}
-                    {/*))}*/}
-                {/*</div>*/}
-                {/*{children}*/}
+            <div className='movies'>
+
+                <div className={params.id ? 'listHidden' : 'list'}>
+                    {movies.map((movie, index) => (
+                        <Link
+                            key={index}
+                            to={`/movies/${index + 1}`}>
+                            <div
+                                className='movie'
+                                style={{backgroundImage: `url(${movie.cover})`}} />
+                        </Link>
+                    ))}
+                </div>
+                {children}
             </div>
         )
     }
 }
 
-const mapStateToProps = (state, ownProps) => {
+const mapStateToProps = ({movies}) => {
     return {
-        // You can now say this.props.books
-        movies: state.movies
+        movies: movies.all
     };
 };
 
@@ -50,4 +62,4 @@ const mapDispatchToProps = (dispatch) => {
     };
 };
 
-export default connect(mapStateToProps, mapDispatchToProps)(Movies);
+export default connect(mapStateToProps,  mapDispatchToProps)(Movies);

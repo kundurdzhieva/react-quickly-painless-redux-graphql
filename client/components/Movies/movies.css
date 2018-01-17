@@ -14,11 +14,12 @@
     display: none;
 }
 
-.movie {
-    display: flex;
-    flex-direction: row;
+.list a {
     justify-content: center;
     align-items: flex-end;
+}
+
+.movie {
     height: 320px;
     width: 240px;
     margin: 10px auto;
@@ -38,7 +39,7 @@
 
     .list, .listHidden {
         display: flex;
-        flex-direction: column;
+        flex-direction: row;
         flex-wrap: wrap;
         justify-content: center;
         height: 100%;

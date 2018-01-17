@@ -1,22 +1,28 @@
-export default (state = [], action) => {
+const initialState = {
+    movies: [],
+    movie: {}
+}
 
+export default (state = initialState, action) => {
 
-    switch (action.type){
+    switch (action.type) {
 
         case 'FETCH_MOVIES':
-console.log('aaaaaaa', state)
-            return [
-                ...state,
-                Object.assign({}, action.movies)
-            ]
-        case 'FETCH_MOVIE':
+
             return {
                 ...state,
-                current: action.movie
+                all: action.movies
             };
-        default:
 
-            console.log('ccccccc')
+        case 'FETCH_MOVIE':
+
+            console.log('action.index', action, 'state', state);
+            return {
+                ...state,
+                current: state.all[action.movie - 1]
+            };
+
+        default:
             return state;
     }
 };

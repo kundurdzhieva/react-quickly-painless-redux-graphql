@@ -14,8 +14,6 @@ import App from './components/App';
 
 let store = createStore(reducers);
 
-console.log('lalla', store.getState());
-
 ReactDOM.render(
     <Provider store={store}>
         <div>
